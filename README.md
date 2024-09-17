@@ -12,3 +12,5 @@ cleaning
 list of string => list in  data
 
 0 stage eplaination :https://chatgpt.com/share/66e83d7d-0d34-800a-ba77-756cb5cb28b2
+
+https://chatgpt.com/share/66e9c681-c760-800a-9829-e70fbf68fb31: text vectorization method in details
